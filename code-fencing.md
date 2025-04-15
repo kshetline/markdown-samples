@@ -192,6 +192,22 @@ function JsxComponent() {
 }
 ```
 
+## JSON5
+
+```json5
+{
+  hrs: 0, // short for hour
+  min: 18, // short for minute
+  sec: 32, // short for second
+  hour: 0,
+  minute: 18,
+  second: 32,
+  millis: 125, /* 0-999 milliseconds part of time */
+
+  "quoted name": 'quoted value'
+}
+```
+
 ## Kotlin
 
 ```kotlin
