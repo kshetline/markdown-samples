@@ -178,7 +178,7 @@ function JsxComponent() {
 {
   // Line comments are not included in standard but nonetheless allowed.
   /* As well as block comments. */
-  "the only keywords are": [true, false, null],
+    "the only keywords are": [true, false, null],
   "strings with": {
     "no escapes": "pseudopolinomiality"
     "valid escapes": "C-style\r\n and unicode\u0021",
@@ -204,7 +204,12 @@ function JsxComponent() {
   second: 32,
   millis: 125, /* 0-999 milliseconds part of time */
 
-  "quoted name": 'quoted value'
+  "quoted name": 'quoted value',
+  {
+    more: true,
+  },
+
+  another_field: null
 }
 ```
 
