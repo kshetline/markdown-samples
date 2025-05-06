@@ -9,7 +9,7 @@ _Sample document for testing syntax highlighting inside Markdown code fences._
   font-family: DroidSans;
   src: url(DroidSans.ttf),
        url("/fonts/DroidSans-Regular-webfont.woff2") format("woff2");
-  unicode-range: U+000-5FF, U+1e00-1fff, U+2000-2300;
+  unicode-range: U+000-5FF, U+1e00-1fff, U+2000-2300, U+41??;
 }
 
 :root {
