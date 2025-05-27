@@ -388,6 +388,12 @@ type my_int< = int
 print(f.__doc__)
 ```
 
+## Shell script
+
+```sh
+ls /
+```
+
 ## SQL
 
 ```sql
